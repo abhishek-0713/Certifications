@@ -8,6 +8,9 @@ This repository includes my professional certifications related to Information T
     <img src='https://user-images.githubusercontent.com/105943862/229583621-ee6f4b89-5c50-4b39-b9c0-c16a29a6e1bb.png' width='280' title='Certificate of Completion Oasis Infobyte Abhishek D  Walke'>
 </a>
 
+<a href='#'>
+    <img src='https://user-images.githubusercontent.com/105943862/230146450-9e8d6009-06f4-476f-b6eb-b564e6bc1909.png' width='280' title='Certificate of Completion LetsGrowMore Java Developer Internship'>
+</a>
 
 <a href='#'>
     <img src='https://user-images.githubusercontent.com/105943862/229304524-db0955cf-a05f-44a9-b8d6-9ec60dab6539.jpeg' width='280' title=''>
