@@ -12,9 +12,9 @@ This repository includes my professional certifications related to Information T
     <img src='https://user-images.githubusercontent.com/105943862/230146450-9e8d6009-06f4-476f-b6eb-b564e6bc1909.png' width='291' height='200' title='Certificate of Completion LetsGrowMore Java Developer Internship'>
 </a>
 
-<!-- <a href='#'>
-    <img src='https://user-images.githubusercontent.com/105943862/230444432-aae21251-87e6-49d5-b9c3-3f28cd881781.png' width='180' height='200' title='LetsGrowMore Letter of Recommendation_Abhishek D  Walke'>
-</a> -->
+<a href='#'>
+    <img src='https://user-images.githubusercontent.com/105943862/230444432-aae21251-87e6-49d5-b9c3-3f28cd881781.png' height='200' title='LetsGrowMore Letter of Recommendation_Abhishek D  Walke'>
+</a> 
 
 <a href='#'>
     <img src='https://user-images.githubusercontent.com/105943862/229304524-db0955cf-a05f-44a9-b8d6-9ec60dab6539.jpeg' width='291' height='200' title=''>
@@ -30,10 +30,6 @@ This repository includes my professional certifications related to Information T
 
 <a href=''>
     <img src='https://user-images.githubusercontent.com/105943862/229304720-02154bd8-bf22-4627-9a84-deb6865a11f2.jpg' width='291' height='200' title='Livewire C++ Certificate Abhishek D  Walke'>
-</a>
-
-<a href='#'>
-    <img src='https://user-images.githubusercontent.com/105943862/230444432-aae21251-87e6-49d5-b9c3-3f28cd881781.png' width='180' height='200' title='LetsGrowMore Letter of Recommendation_Abhishek D  Walke'>
 </a>
 
 </div>
