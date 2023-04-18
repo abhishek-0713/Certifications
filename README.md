@@ -35,6 +35,10 @@ This repository includes my professional certifications related to Information T
 <a href='https://www.hackerrank.com/certificates/bd1e4dc49b03'>
     <img src='https://user-images.githubusercontent.com/105943862/232549237-690e7abb-ca60-4cc9-9e34-a1acf7319d6e.png' width='291' height='200' title='HackerRank REST API Certificate Abhishek D  Walke'>
 </a>
+    
+<a href='https://www.hackerrank.com/certificates/8c110e44466c'>
+    <img src='https://user-images.githubusercontent.com/105943862/232842350-74c191fe-d802-4b1b-90da-ac32c7340dec.png' width='291' height='200' title='HackerRank SQL Certificate Abhishek D  Walke'>
+</a>
 
 <a href=''>
     <img src='https://user-images.githubusercontent.com/105943862/229304715-fe7119ac-d3b1-4263-a7c1-9cee266cf8ec.jpg' width='291' height='200' title='Livewire C Certificate Abhishek D  Walke'>
